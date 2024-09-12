@@ -32,9 +32,7 @@ In this project, an adversarial patch is generated and tested on several images.
 
 The adversarial patch causes the ResNet34 model to misclassify various images as "ice cream." Below is an example of the generated adversarial patch:
 
-![Adversarial Patch](<link>)
-
-The results from the classification:
+![Adversarial Patch](https://github.com/user-attachments/assets/4ed89f1c-4a25-417e-83fe-aa073d5ee5a2)
 
 
 ### Credits
